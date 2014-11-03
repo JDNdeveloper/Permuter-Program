@@ -1,4 +1,4 @@
-Terminal Program
+Permuter Program
 =============
 
 **Author:** Jayden Navarro
@@ -25,4 +25,4 @@ Enjoy!
 
 ## How To Use:
 
-Change the String 's' in PermuterChecker.java to the String you want permuted, and compile and run the file.
+Change the String 's' in PermuterPrinter.java to the String you want permuted, and compile and run the file.

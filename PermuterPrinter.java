@@ -1,6 +1,6 @@
 /*
  * Permuter Project
- * PermuterChecker.java
+ * PermuterPrinter.java
  * Purpose: Prints all permutations of a String using recursion
  *  to form each permutation, and iteration to go through all
  *  of the possibilities. Only works on small strings.
@@ -9,7 +9,7 @@
  * @version 1.0 2/25/14
  */
 
-public class PermuterChecker {
+public class PermuterPrinter {
     public static void main(String[] args) {
         String s = "123456";
         for (int i = 1; i <= perms(s.length()); i++) {
